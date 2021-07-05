@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utkarsh Srivastava
-- I work as  Front-end developer with Android Application Development. I am based in Bangalore,Karnataka.
+- I work as  Front-end developer in Android Application Development. I am based in Bangalore,Karnataka.
 - Since 2019 I have been living and breathing Android Application development and creating modern and super friendly Apps.
 - I am always trying to grow and learn something new.
 - 🌱 I’m currently working in Kotlin language.
